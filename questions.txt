@@ -1,0 +1,793 @@
+1) Whats your (full) name?
+2) How old are you?
+3) Whats your Birthday?
+4) What starsign does that make it?
+5) Whats your favourite colour?
+6) Whats your lucky number?
+7) Do you have any pets?
+8) Where are you from?
+9) How tall are you?
+10) What shoe size are you?
+11) How many pairs of shoes do you own?
+12) If you were prime miniser/ruler of the world what laws would you make?
+13) If you were a super hero what powers would you have?
+14) and what would your hero name be?
+15) and what outfit would you wear?
+16) What was your last dream about?
+17) What would you do if you won the lottery?
+18) Would you like to build/design your own house?
+19) Which form of public transport do you prefer?
+20) What talents do you have?
+21) Can you juggle?
+22) Can you solve a rubix cube?
+23) Do you have a cherished childhood teddybear?
+24) Are you psychic in any way?
+25) Are you a good dancer?
+26) Are you a good singer?
+27) Are you a good cook?
+28) Are you a good artist?
+29) Are you a good listener?
+30) Are you a good public speaker?
+31) Are you a good babysitter?
+32) Are you a good mechanic?
+33) Are you a good diplomat?
+34) Are you a good employee?
+35) Are you a good dresser?
+36) Are you a good swimmer?
+37) Are you a good skier?
+38) Are you a good lover?
+39) Are you a good musician?
+40) Are you a good comedian?
+41) Are you a good cleaner?
+42) Are you a good actor?
+43) Are you a good writer?
+44) Have you ever been bungee jumping?
+45) Have you ever been canoeing/kayaking?
+46) What types of holidays do you prefer?
+47) Whats the furthest you've ever been on holiday?
+48) What was your favourite holiday?
+49) Where would your dream holiday be?
+50) Can you tap dance?
+51) Whats your favourite zoo animal?
+52) Whats your favourite sport?
+53) Whats your favourite food?
+54) Whats your favourite pizza topping?
+55) Whats your favourite film?
+56) Whats your favourite song?
+57) Whats your favourite alcoholic drink?
+58) Whats your favourite non-alcoholic drink?
+59) Whats your favourite TV program?
+60) Whats your favourite boyband?
+61) Whats your favourite girl group?
+62) What would be your ideal partner?
+63) Do you want children?
+64) Do you want a church wedding?
+65) Are you religious?
+66) Do you like reality TV programs?
+67) Do you like TV talent shows?
+68) If you were gay who would your life partner be?
+69) If you could go back in time to change one thing what would it be?
+70) How many hats do you own?
+71) Are you any good at pool?
+72) Whats the highest you've ever jumped into the water from?
+73) Have you ever been admitted to hospital?
+74) Have you ever had any brushes with the law?
+75) Have you ever been on TV?
+76) Have you ever met any celebrities?
+77) Have you ever been to Legoland?
+78) Have you ever done something heroic?
+79) Have you ever played a practical joke on anyone?
+80) Have you ever been the recipiant of a practical joke?
+81) What would be your best achievement to date?
+82) Do you prefer baths or showers?
+83) Do you prefer towel drying, blow drying or natural dryin your hair?
+84) Have you ever built a snowman?
+85) Have you ever been sledging?
+86) Have you ever flown a kite?
+87) What colour socks are you wearing?
+88) If you could live anywhere, where would that be?
+89) Have you ever been famous?
+90) Would you like to be a big celebrity?
+91) Would you ever go on Big Brother?
+92) How big is your TV?
+93) What is your most essential appliance?
+94) What type of music do you like?
+95) Have you ever been skinnydipping?
+96) How many Pillows do you sleep with?
+97) What position do you often sleep in?
+98) What do you wear to bed?
+99) How big is your house?
+100) Do you prefer sunrises or sunsets?
+101) What do you typically have for breakfast?
+102) Do you like scary movies?
+103) Whats your favourite Milkshake flavour?
+104) Have you ever been in a newspaper?
+105) How long can you balance on one foot?
+106) Have you ever fired a gun?
+107) Have you ever tried archery?
+108) Whats your favourite condement?
+109) Whats your favourite clean word?
+110) Whats your favourite swear word?
+111) Whats your least favourite word?
+112) What was the last film you saw?
+113) What football team do you support?
+114) Whats the longest you've gone without sleep?
+115) Whats the tallest building you've ever been up?
+116) Do you have any scars?
+117) Do you like marmite?
+118) Did you ever win any sportsday events?
+119) What did you want to be when you grew up?
+120) If you could change anything about yourself what would it be?
+121) Whats the longest you've ever grown your hair?
+123) Are you scared of flying?
+124) Would you rather trade some intelligence for looks or looks for intelligence?
+125) Have you ever tie-dyed your own clothes?
+126) How often do you buy new clothes?
+127) Are you reliable?
+128) Are you proud of yourself?
+129) Have you ever had a secret admirer
+130) If you could ask your future self one question what would it be?
+131) Do you hold grudges?
+132) If you could breed two animals together to defy the laws of nature what new animal would you create?
+133) Do you decorate the outside of your house for christmas?
+134) Can you solve sudoko puzzles?
+135) Have you ever played conkers?
+136) Whats the most unusual conversation you've ever had?
+137) Are you much of a gambler?
+138) Are you much of a daredevil?
+139) Are you a good liar?
+140) Are you a good judge of character?
+141) Are you any good at charades?
+142) How long could you go without talking?
+143) What has been your worst haircut/style?
+144) Can you iceskate?
+145) Can you summersault?
+146) Whats your favourite joke?
+147) Whats been your best present?
+148) Whats been your worst present?
+149) Have you ever sleepwalked?
+150) Can you build a house of cards?
+151) Whats your favourite TV advert?
+152) Can you play poker?
+153) If your parents hated your partner you currently loved would you ditch him or carry on with him despite the protests?
+154) Have you ever been professionally photographed?
+155) Have you ever baked your own cake?
+156) Whats your favourite fruit pastel colour?
+157) What traditionally adorns the top of your christmas tree?
+158) What would be your dream sandwich?
+159) Can you inpersonate anyone famous?
+160) Can you do any accents other than your own?
+161) Do you have a strong local accent?
+162) Whats your favourite accent?
+163) In O's and X's which do you normally pick?
+164) Do you prefer blue or black inked pens?
+165) What was the last thing you recorded off TV?
+166) What was the last thing you dressed up as for fancy dress?
+167) Do you prefer green or red grapes?
+168) What do you like on your toast?
+169) Do you prefer liquid soap or bars of soap?
+170) How do you have your eggs?
+171) Whats your favourite saying?
+172) Have you ever been in a tug of war?
+173) and did you win?
+174) Can you stand on your hands unassisted?
+175) What do you have on your fridge door?
+176) Do you love or hate myspace?
+177) Who was the last person to knock/ring at your door?
+178) How old were you when you last went trick or treating?
+179) Have you ever been bobbing for apples?
+180) Whats your most expensive piece of clothing?
+181) Whats the last thing you took a picture of?
+182) Whats the last thing you drew a picture of?
+183) Have you ever bought anything from ebay?
+184) Whats your favourite smell/scent?
+185) Can you blow bubbles with bubblegum?
+186) What was your favourite birthday?
+187) Can you curl your tounge?
+188) Is your bellybutton an innie or outie?
+189) What would be your dream car?
+190) Are you left or right handed?
+191) What was the last book you read?
+192) What was the last song you danced to?
+193) Have you ever owned a yo-yo?
+194) Have you ever been on a pogo stick?
+195) Have you ever been on a space hopper?
+196) Who was the last person to send you a text message?
+197) Have you ever accidentally injured anyone?
+198) Are you scared of spiders?
+199) Can you down a pint (of anything) in one?
+200) Have you ever been banned from a public place?
+201) How much spam email do you tend to get a week?
+202) If you could learn any language fluently what would it be?
+203) What historical Figure would you love to see in 21st centuary life?
+204) As a kid were you ever frighted of a monster under the bed or in the cupboard?
+205) Do you like clowns?
+206) Do you prefer BBC or ITV?
+207) Have you ever been surfing?
+208) Have you ever been snowboarding?
+209) Who was better, the Beatles or Elvis Presley?
+210) Whats your favourite type of foreign food?
+211) Which Foreign country do you dislike the most?
+212) Do you like your music loud or easy listening?
+213) Whats your favourite animated or cartoon program?
+214) Do you sing in the shower?
+215) Are you a clean or messy person?
+216) Whats your prefered playing piece in monopoly?
+217) Can or Do you still play twister?
+218) Can you play chess?
+219) Do you know the dance steps to an annoying cheesey pop song?
+220) Do you prefer straight or bendy straws?
+221) Have you ever entered a talent contest?
+222) and did you win?
+223) Do you like poetry?
+224) Are you a bad loser?
+225) Which would you choose? Jelly or Ice Cream?
+226) Whats your favourite type of Pie?
+227) Whats your most used phrase?
+228) Whats your most used word?
+229) Who would you want to play you in a movie of your life?
+230) What would your dream job be?
+231) Which song do you hate the most?
+232) How long does it take you to get ready?
+233) What do you think the greatest invention has been?
+234) Whats your favourite feature on the opposite sex?
+235) Whats your least favourite feature on the opposite sex?
+236) Who's your favourite Comedian?
+237) What's your favourite board game?
+238) Do you have any lucky items, objects or traditions?
+239) Do you have any superstitions?
+240) Whats your favourite Movie quote?
+241) Who would win in a fight? Chuck Norris or Jack Bauer?
+242) Do you have much of an ego?
+243) Do you wear sunglasses indoors to look cool or stylish?
+244) Are you a hat person?
+245) Whats your favourite supermarket chain?
+246) Whats your favourite fastfood chain?
+247) Whats your first thought upon waking up?
+248) What animal would you most like to have as a pet?
+249) Whats your favourite type of tree?
+250) If you could bankrupt one person or company who would it be?
+251) If you could steal one thing without consequence what would it be?
+252) Who's your favourite celeb with the same first name or surname as you?
+253) If evil-doers invaded your country would you rush to the battlelines to defend the motherland or hide in a box?
+254) Whats your favourite flower?
+255) Do you believe in ghosts?
+256) Do you believe in the loch ness monster?
+257) Do you believe in Aliens?
+258) Do you believe the Governments hide technology and information from the public?
+259) Which is your favourite pokemon?
+260) What horror fiction character scares you the most?
+261) Can you do 10 revolutions of a hula hoop?
+262) Do you think Great Britain should have a National Day?
+263) Do you think Great Britain should be part of a United Europe?
+264) Would you want the Euro or keep the British Pound?
+265) Were you part of the Brownies/Cubs/Scouts/Guides etc
+266) Have you ever invented a fairly unique meal or drink?
+267) Do you have any secret family recipes?
+268) Do you have any family secrets? :o
+269) Are you good at keeping secrets?
+270) Have you ever been up in a hot air balloon?
+271) Whats your favourite Sci-fi film/program etc?
+272) When playing checkers or chess do you prefer to be black or white?
+273) Which is better, a Pastie or Sausage Roll?
+274) Do you prefer shopping on the high street or online?
+275) Would you ever want to learn to fly?
+276) Do you often read your horoscope?
+277) Have you ever had a proper Tarot reading?
+278) Whats your favourite brand of newspaper?
+279) Have you ever milked a cow?
+280) Have you ever used the phrase "back in my time" to someone younger than you?
+281) Do you love or hate rollercoasters?
+282) Which was the greatest Empire?
+283) Whats the cleverest word you know?
+284) Whats your favourite sportsware brand?
+285) Do you buy any weekly/monthly magazines?
+286) Who's your favourite Superhero?
+287) Who's your favourite Villain/Baddie?
+288) What was the last Album you purchased?
+289) What was the last DVD you purchased?
+290) What was the last piece of clothing you purchased?
+291) When pulling crackers does everyone get one each regardless or whoever gets the big ends keeps all the prizes
+292) Do you ever make your own greetings cards
+293) Do you have a swiss army knife?
+294) At what age did you twig onto the fact Santa wasnt real?
+295) Whats your favourite fruit?
+296) Have you ever done something really unbelivable, only to have no one around to see it?
+297) Do you buy from charity shops?
+298) Have you ever sold your services?
+299) Have you ever raised money for charity?
+300) Have you ever won a giant sized cuddly toy from a fair?
+301) Is the glass half full or half empty?
+302) Is the grass greener on the other side?
+303) If a tree falls in the forest and there's no one around to hear it does it make a noise?
+304) Why does it always rain on me?
+305) Have you ever sailed a boat?
+306) Do you love or loathe Harry Potter?
+307) Do you do your utmost for the environment?
+308) Do you love or loather Eurovison?
+309) Have you ever weilded a sword?
+310) If you were famous would you want a statue or a building names after you?
+311) Whats your favourite type of fish?
+312) Which do you prefer pony tails or pig tails?
+313) Whats the ultimate cake topping?
+314) Do you like marzipan?
+315) Whats better? Center Parks or Butlins?
+316) If you were in a band, what instrument/role would you play?
+317) Can you erect a tent?
+318) Do you suck or bite lollipops?
+319) Have you ever used the yellow pages?
+320) If you have an mp3 player what size is it?
+321) Do you still have any music on vinyl or casettes?
+322) Do you still have a camera that uses conventional film?
+323) Approximately how many DVD's do you have?
+323) Approximately how many Albums do you have?
+324) Do you talk to yourself?
+325) Do you sing to yourself?
+326) Do you know any identical twins?
+327) Have you ever given blood?
+328) Could you ever be a medical guineapig?
+329) Whats your favourite radio station?
+330) Whats your favourite letter of the Alphabet?
+331) Which is better? rollerblade or rollerskates?
+332) Have you ever written a love letter?
+333) How many valentines cards did you recieve this/last year?
+334) What are cooler? Dinosaurs or Dragons?
+335) Have you ever made your own ice lollies?
+336) Have you ever made your own Ice cream?
+337) Which forgeign language did you have to learn at school?
+338) and do you still remember enough to hold a conversation in that language?
+339) Do you know CPR?
+340) Do you have any swimming badges?
+341) Do you prefer digital or rotary/analogue clocks?
+342) How tall is the tallest person you know?
+343) Have you ever got lost in a maze?
+344) Have you ever been attacked by a wild animal?
+345) Have you ever ridden a camel?
+346) Whats your opinion on rats?
+347) Have you ever been to a gym?
+348) Have you ever been in a helicopter?
+349) Have you ever cheated at a test?
+350) Have you ever ridden a tractor?
+351) Are you a gossip?
+352) Have you ever cried at a film?
+353) When you're ill do you struggle on regardless or just curl up in bed as much as possible?
+354) Do you need to write down things to remember them?
+355) Do you keep a diary/journal?
+356) Are you scared of thunderstorms?
+357) Do you have any unusual fears or phobias?
+358) Whats your favourite disney movie?
+359) Have you ever slept in a caravan?
+360) Have you ever painted a house?
+361) Have you got green fingers?
+362) Whats the tallest tree you've ever climbed?
+363) Have you ever dialed the talking clock?
+364) Do you always wear identical socks?
+365) Do you live by any motto or philosophy?
+366) Do you lick the yoghurt or desert lid?
+367) Do you lick the spoon clean after making something sweet?
+368) Do you like the sound of music? (the musical/film)
+369) Have you ever made your own orangejuice?
+370) Have you ever sucked on a lemon?
+371) Have you ever licked a battery?
+372) Are you a good aim with a rubber band?
+373) Have you ever played golf?
+374) Whats the most unusual name you've ever come across?
+375) Do you prefer to wash in the mornings or evenings?
+376) Have you ever danced in the rain?
+377) Do you like long or short hair?
+378) Have you ever sworn at an authority figure?
+379) Have you ever walked into a wall?
+380) Whats your favourite precious metal?
+381) Whats your favourite precious stone?
+382) Could you ever hunt your own meal?
+383) Have you ever read any comics?
+384) Where do you like to go to on a first date?
+385) Do you prefer vertical or horizontal stripes?
+386) Have you ever baked your own bread?
+387) Can you believe I can't believe its not butter is in fact not actually butter?
+388) Can you name all 50 American states?
+389) Have you ever owned a goldfish?
+390) What was your favourite school subject?
+391) What was your least favourite school subject?
+392) Have you ever passed wind in an embarassing situation?
+393) Have you ever played the bongos?
+394) Have you ever handled a snake?
+395) Have you ever assembled furniture by yourself?
+396) When did you last go to the beach?
+397) When if ever did you last go to london?
+398) What do you do to cool down when its hot?
+399) Whats the most unusual thing you've ever eaten?
+400) Do you have a favourite mug?
+401) Do you know any self defence or martial arts?
+402) Who's your favourite movie action hero?
+403) Have you ever ridden a motorcycle?
+404) Do you collect anything?
+405) Is there anything you wished would come back into fashion?
+406) Do you stick to conventional fashions or like to try and be original?
+407) Have you ever given someone a handmade present?
+408) Are you introvert or extrovert?
+409) If you could have any feature from an animal what would you want?
+410) Whats your prefered swimming stroke?
+411) Have you ever been scuba diving?
+412) Have you ever had a disasterous interview?
+413) What makes you nervous?
+414) Which of the 5 senses would you say is your strongest?
+415) What colour are your eyes?
+416) Have you ever been to an Art gallery?
+417) Do you shout out the answers at the TV whilst watching quiz shows?
+418) Are you a valuable asset on a Pub Quiz team?
+419) Have you ever won any kind of quiz yourself?
+420) Do you get over-involved with TV or movie plots at times?
+421) Do you own any inflatable furniture?
+422) Whats the highest hill or mountain you've ever climbed?
+423) Do you have a piggy bank?
+424) Whats the fastest you've ever travelled in a car?
+425) Could you ever hand milk a cow?
+426) Do you have popcorn with a movie?
+427) Whats the futhest you've ever got a paper airplane to fly?
+428) Have you ever built an igloo?
+429) Can you play the harmonica?
+430) Have you ever made a ball of twine or rubberbands?
+431) If given the option of having a flake in your ice cream do you always take it?
+432) Could you ever be a living organ donor?
+433) Which was your favourite science? Biology, Physics or Chemistry?
+434) Could you ever go out with someone just cause they're rich?
+435) Have you ever contemplated sueing someone?
+436) Are you pretty devious?
+437) Have you ever had a surprise party? (that was an actual surprise)
+438) Are you any good at giving massages?
+439) Whats been your worst date ever?
+440) Have you ever slapped somoene in public?
+441) Have you ever drawn on a sleeping or inebriated person?
+442) Have you ever warn clothing with the labels/tags still attached?
+443) Have you ever slipped on a banana skin?
+444) Are you scared of the dark?
+445) Do you have a lawyer?
+446) Have you ever been wolf whistled in public?
+447) Whats the worst chatup line you've heard?
+448) Have you ever been water skiing?
+449) Have you ever hopelessly failed a test?
+450) If you had a year off, what would you want to do?
+451) How many sms/txt messages do you recieve on average a day?
+452) How long did you last phone call last?
+453) Do you go to car boot sales?
+454) If you saw someone drop a £10 note, would you claim it for your own or try to return it to them?
+455) Have you ever helped someone across the road?
+456) Have you ever been horseriding?
+457) Have you ever walked a tightrope?
+458) Have you ever demolished a wall or building?
+459) If you and a friend both wanted the same thing would you let the friend get it first?
+460) Have you ever argued over who should pay for something?
+461) Do you have any family heirlooms?
+462) Are you related or distantly related to anyone famous?
+463) Whats your favourite ocean?
+464) Do you correct peoples mistakes?
+465) Have you ever helped out an injured animal?
+466) Do you throw bread for the ducks?
+467) Do you think babies are little bundles of joy or smelly noisey things?
+468) Do you give money to buskers?
+469) Have you ever tossed your own pancake?
+470) Are you any good at egg and spoon races?
+471) Are you allergic to anything?
+472) Are you ticklish?
+473) Do you prefer tea,coffee or cocoa?
+474) Do you like Turkish Delight?
+475) Do you buy people presents to bring back when you go on holiday?
+476) Are you tired of answering questions yet?
+477) Have you ever been wheelbarrow racing?
+478) Do you ever forward or reply to chain mails?
+479) Do you often have a tune in your head you can't name?
+480) Has anyone ever approached you thinking you were someone else?
+481) Have you ever been approached by someone who knew you but you couldn't remember them for the life of you?
+482) What do you do to keep fit?
+483) Are you the sort to step in and try to break up a fight?
+484) Have you ever been in a fight?
+485) Have you ever started a rumour?
+486) Have you ever heard any outstanding rumours about yourself?
+487) Have you ever been in or had a food fight?
+488) When its your birthday do you always wear an age badge?
+489) Have you ever starred in an amateur or professional video?
+490) If you were comfortbly rich would you work hard for more or rest on your laurels?
+491) Have you ever been in a position of authority?
+492) Have you ever been caught in a comprimising position? even despite a valid explanation?
+493) Have you ever tried to make your own alcohol?
+494) If you were ruler of your own country what would you call it?
+495) And what title would you give yourself?
+496) If you invented a monster what would you call it?
+497) And what features would it have?
+498) Have you ever had a dream you chased only to be let down when you achived it?
+499) Is there anything about the opposite sex you just don't understand or comprehend?
+500) Who was your favourite teacher at school and why?
+501) Whats your favourite party game?
+502) Is it acceptable or unacceptable to smack a child as form of disapline?
+503) Can a hetrosexual male ever wear pink?
+504) Is it criminal to wear socks with sandals?
+505) If you were captain of a ship, what would you call it?
+506) If you were to join an emergency service which would it be?
+507) If you were to join one of the armed forced which would it be?
+508) Whats the worst thing about being your gender?
+509) Whats the best thing about being your gender?
+510) If you swapped genders for a day how would you spend it?
+511) If you were exiled what country would you choose as your new home?
+512) Have you ever made someone cry?
+513) Have you ever starred in a school play?
+514) Were you a member of any celebrity fanclub?
+515) Have you ever been a member of any other club?
+516) If you could have a full scholarship to any university what would you choose to study?
+517) Whats been your greatest ever day?
+518) What historical period would you like to live in if you could go back in time?
+519) What would you bring along to an idillic picnic?
+520) Whats your favourite childrens story?
+521) What movie ending really frustrated you? And how would you change it?
+522) What three things do you think of most each day?
+523) What do you call your evening meal? Dinner Tea or Supper?
+524) What do you call your after meal sweet? Pudding or Dessert?
+525) If you had a warning label, what would yours say?
+526) Have you ever got sweet revenge on anyone?
+527) Have you ever been to a live concert?
+528) Have you ever been to see stand up comedy?
+529) Have you ever needed stitches?
+530) If you could invent brand new baby names what would they be?
+531) Do your dreams ever tell you to do anything?
+532) Who's your favourite radio 1 DJ?
+533) Whats the best way to your heart?
+534) Do you know your own mobile phone number off by heart?
+535) If you were a fashion designer, what style of clothing or accessories would you design?
+536) Do you ever laugh at things you shouldn't?
+537) Have you ever been in a submarine?
+538) Have you ever walked out of a cinema before the film was done?
+539) What song would you say best sums you up?
+540) Do you have any old friends wou wish you could meet up with again?
+541) Whats your favourite Nursury Rhyme?
+542) Do you prefer metric or imperial measurements?
+543) Who's your favourite monarch of all time?
+544) What was the last thing you ate?
+545) Whats your favourite farmyard animal?
+546) If you could choose one celebrity to be the father/mother of your child who would it be?
+547) What would you do if someone proposed to you tomorrow?
+548) What are your 3 favourite internet sites?
+549) How high can you jump?
+550) Which fictional character do you wish was real?
+551) Who was your first crush?
+552) Whats the greatest thing about being your nationality?
+553) Whats the least greatest thing about being your nationality?
+554) Do you believe in destiny, fate or free will?
+555) If you could talk to one species of animal which would it be?
+556) If you had friends round what DVD's would you have to watch?
+557) Do you like vanilla or chocolate?
+558) Are you a giver or a receiver?
+559) Do you have any enemies?
+560) Are you scared of needles?
+561) How many piercings do you have? if any
+562) Have you ever got majorly lost trying to get somewhere?
+563) How fast can you say the alphabet?
+564) Do you say "Zee" or "Zed" to describe the letter Z?
+565) What was the last thing to make you feel happy?
+566) What was the last thing to make you feel angry?
+567) You are walking to work. There is a dog drowning in the canal on the side of the street. Your boss told you if you are late one more time you're fired. Do you save the dog?
+568) Are you the kind of friend you'd want to have as a friend yourself?
+569) Do you have any questions or queries about things you're just to scared or embarassed to ask anyone about?
+570) If you were a wrestler what would your stage name be?
+571) and what would your special move be called?
+572) Whats the most interesting thing you can see out of your nearest window?
+573) Do you think Barbie is a negative role model for young girls?
+574) Have you ever needed an eye test?
+575) Do you find yourself attractive?
+576) Can you roll your R's?
+577) What social class do you consider yourself or your family background to be in?
+578) Do you know any magic tricks?
+579) Whats the largest amount of money you've ever won?
+580) Whats the largest amount of money you've spent in one spree?
+581) Whats the largest amount of money you've had to borrow off of a friend or family member
+582) Have you ever been on a cable car?
+583) Do you prefer Honey or Jam?
+584) Do you prefer the French or Germans?
+585) How fast can you get changed?
+586) How fast do you type?
+587) How fast can you run?
+588) Which is better, Mario or Sonic?
+589) Whats your favourite biscuit to dunk?
+590) Which would you rather have if you had to, a broken leg or a broken arm?
+591) Do you read a daily newspaper?
+592) Do you watch the news on TV?
+593) Have you ever had anything published?
+594) Do you believe in love at first sight?
+595) How many remote controls do you have in your house?
+596) Have you ever been in a hot tub or sauna?
+597) Have you ever had chicken pox?
+598) Do you own a lava lamp?
+599) Are you glad these are almost over?
+600) On a scale of 1-10 how random would you say these are?
+601) What is your one major weekness?
+602) Whats been the best descision you've made in your life so far?
+603) Whats been the worst descision you've made in your life so far?
+604) What words do you always struggle to spell correctly?
+605) On a scale of 1-10 how happy would you say you are?
+606) On a scale of 1-10 how smart would you say you are?
+607) On a scale of 1-10 how funny would you say you are?
+608) On a scale of 1-10 how devious would you say you are?
+609) On a scale of 1-10 how awesome would you say you are?
+610) On a scale of 1-10 how devilsh would you say you are?
+611) On a scale of 1-10 how nice/caring would you say you are?
+612) On a scale of 1-10 how bitchy would you say you are?
+613) On a scale of 1-10 how polite would you say you are?
+614) On a scale of 1-10 how attractive would you say you are?
+615) If you could be any famous person who would you be and why?
+616) Whats your favourite animal beginning with the letter A?
+617) Whats your favourite item of clothing beginning with the letter B?
+618) Whats your favourite expleitive beginning with the letter C?
+619) Whats your favourite boys name beginning with the letter D?
+620) Whats your favourite girls name beginning with the letter E?
+621) Whats your favourite book beginning with the letter F?
+622) Whats your favourite bodypart beginning with the letter G?
+623) Whats your favourite musical instrument beginning with the letter H?
+624) Whats your favourite song beginning with the letter I?
+625) Whats your favourite actress beginning with the letter J?
+626) Whats your favourite actor beginning with the letter K?
+627) Whats your favourite film beginning with the letter L?
+628) Whats your favourite tv show beginning with the letter M?
+629) Whats your favourite game beginning with the letter N?
+630) Whats your favourite non alcoholic drink beginning with the letter O?
+631) Whats your favourite food beginning with the letter P?
+632) Whats your favourite band beginning with the letter Q?
+633) Whats your favourite author beginning with the letter R?
+634) Whats your favourite sport beginning with the letter S?
+635) Whats your favourite job beginning with the letter T?
+636) Whats your favourite mythical creature beginning with the letter U?
+637) Whats your favourite alcoholic drink beginning with the letter V?
+638) Whats your favourite cartoon character beginning with the letter W?
+639) Whats your favourite word beginning with the letter X?
+640) Whats your favourite city beginning with the letter Y?
+641) Whats your favourite country beginning with the letter Z?
+642) Do you get seasick?
+643) If you discovered a new species of dinosaur what would you call it?
+644) Do you own a paddling pool?
+645) What do you consider is the most important piece of furniture in a house?
+646) What do you consider is the most important appliance in a house?
+647) If you could have any celebritys hair whos would it be?
+648) Which Celebrity do you find the most annoying?
+649) What potential talents do you think you might have if you worked at them?
+650) Who was better, Flipper, Lassie or Skippy?
+651) If you could be trained up in any profession of your choice by top professionals what profession would you choose?
+652) If someone elses child was being an annoying little runt would you go tell them off or do something about it?
+653) Do you believe in kharma?
+654) Do you believe in revenge?
+655) Do you believe in fairies?
+656) Do you believe in a god?
+657) Do you believe there used to be dragons?
+658) Who would you want to be with on a desert island?
+659) What's the worst show on television?
+660) Who's your favourite god from ancient history?
+661) What one device would you want to see added to a mobile phone?
+662) Where do you see yourself in 1 months time?
+663) Where do you see yourself in 1 years time?
+664) Where do you see yourself in 10 years time?
+665) What was the best thing about your old school?
+666) What was the worst thing about your old school?
+667) If you could change your name to anything what would your new name be?
+668) Do you watch too much tv?
+669) Have you ever planted a tree?
+670) Whats the heaviest thing you can lift?
+671) What was the last present you recieved?
+672) Are your ears lobed or attached?
+673) How often do you wash your ears?
+674) Could you go out with someone who had a child from a previous relationship?
+675) What was your first alcoholic drink?
+676) What was your first job?
+677) What was your first car? (or what would you like it to be?)
+678) What was your first mobile phone?
+679) What is your first proper memory?
+680) Who was your first teacher?
+681) Where did you go on your first ride on an airplane?
+682) Who was your first best friend?
+683) What was your first detention for?
+684) Whats your strongest voluntary muscle?
+685) Who was your first kiss?
+686) What was the first film you remember seeing at the cinema?
+687) What thing that you've made are you most proud of?
+688) Could you ever be someones bodygaurd?
+689) Michelangelo's David... Masterpiece or filth?
+690) Do you like other people buying you clothes?
+691) Have you ever brought a present for someone that they hated/disliked?
+692) What nicknames do you have/have had?
+693) Did you have any pretend or imaginary friends?
+694) Have you ever seen a therapist/shrink?
+695) Have you ever carved a pumpkin?
+696) Would you say you are a good or bad influence to others?
+697) Do you prefer giving or recieving gifts/help etc
+698) If you were a member of the spice girls, what would your spice handle be?
+699) If you were to become a famous singer, what would your debut album be called?
+700) If you could join any music group which would you want to join?
+701) What do your parents do?
+702) If you were a giant mega monster what city would you rampage?
+703) Did you ever have a treehouse as a kid?
+704) Is your dad an embarassing dancer?
+705) Do you plan to vote in the next election?
+706) If you could replace one bodypart with a super bionic replacement what bodypart and what features would the new bionic replacement have?
+707) What if any unusual objects have you swallowed?
+708) When you buy something new do you get a desire to use/play with it even when they dont have any physical application yet?
+709) Did you understand the Matrix Trilogy?
+710) Would you rather be the fella in a movie who gets the girl or the baddie with all the good lines?
+711) If you were stinking rich, would you only go to places other rich people went?
+712) Would you rather have a mans top half and a womens bottom half or visa versa?
+713) Rebound relationships, good or bad?
+714) Have you ever owned a slinky?
+715) Teenage parents, good bad or indifferent?
+716) Whats the most expensive thing you've ever broken?
+717) Pirate downloads, good or bad?
+718) Democracy, good or bad?
+719) Communism, good or bad?
+720) Have you ever been electrocuted?
+721) Have you ever been attacked with a creamy bakery product?
+722) Have you ever shawn a sheep?
+723) Have you ever accidentally set fire to yourself?
+724) Have you ever eaten a whole tube of pringles by yourself?
+725) Have you ever been hit on by someone of the same gender?
+726) The war in Iraq, good or bad?
+727) The war in Afganistan, good or bad?
+728) Have you ever appeared on youtube?
+729) Have you ever performed in front of a large audience?
+730) Have you ever eaten anything prepared by a celebrity chef?
+731) Have you ever been on radio?
+732) Did your school make a teatowel that everyone submitted to?
+733) What colour/style was your school tie?
+734) Do you have to wear glasses?
+735) Do you bite your nails?
+736) Do you prefer male or female singers voices?
+737) Would you rather be the worlds greatest football player or lover?
+738) Do you get hayfever?
+739) Do you have a list of things to do before your 'x' years old?
+740) Do you like your age?
+741) Whats your favourite physical thing you like about yourself?
+742) Whats your least favourite physical thing you like about yourself?
+743) Are you proud, comfortable or ashamed of your body?
+744) Whats your favourite personality trait you like about yourself?
+745) Whats your least favourite personality trait you like about yourself?
+746) Do you know html?
+747) Have you ever flown first class?
+748) How many languages do you speak?
+749) What are better, violins or pianos?
+750) Whats the fastest you've ever driven? (as driver or passenger)
+751) What compulsions do you have?
+752) What makes you angry?
+753) If you could see any band, which would you like to see?
+754) Who would you say are more attractive, English or Europeans?
+755) What would you say is your favourite album of all time?
+756) Do you dislike hairy people?
+757) Are you much of an adventurer?
+758) Do you like your own name?
+759) Would you ever sign a Prenuptial agreement?
+760) How long has your longest ever phone call been?
+761) Have you ever stolen anything?
+762) Could you ever have an affair with a married person?
+763) Could you ever split up a couple for one reason or another?
+764) What is your family christmases like?
+765) Do you prefer sporty or academic members of the opposite sex?
+766) How much would it cost to buy your love?
+767) Who was your least favourite teacher at school and why?
+768) If you met a Genie who offered you three wishes, what would you wish for? (more wishes does not count)
+769) Whats your current Mobile phone model and do you like it?
+778) Have you already thought about your babies names?
+779) Have you ever been fishing?
+780) Have you ever had your national flag painted on your face?
+781) Do you have any strange body things?
+782) What was the last social faux pas you made?
+783) What makes you nostalgic?
+784) Whats the scariest thing you've ever done?
+785) What fairy tale character would you most associate with?
+786) How much do you tend to swear in public?
+787) What are your strengths?
+788) What are your weaknesses?
+789) What brand are your trainers?
+790) If you ruled your own country, who would you get to writer your national anthem?
+791) Who is the most intelligent person you know?
+791) Whats the craziest thing you've ever done for someone?
+792) How did you get your name?
+793) Whats the best piece of advice anyone has ever given you?
+794) If you had to describe yourself as a flavour, what would it be?
+795) If you had to describe yourself as a car, what would it be?
+796) If you had to describe yourself as an animal, what would it be?
+797) Do you think laughing at someone elses misfortune is wrong?
+798) If a loved one was to serenade you, what song would you most like them to sing?
+799) Would you ever let your parents pick out a partner for you?
+800) Have you ever tried spam? (the meat product)

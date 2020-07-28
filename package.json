@@ -1,0 +1,12 @@
+{
+  "name": "harold-question-bot",
+  "version": "1.0.0",
+  "description": "Simple slack bot which will ask a random member of a channel a random question",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.2.2",
+    "request": "^2.67.0",
+    "request-promise": "^4.1.1"
+  }
+}
