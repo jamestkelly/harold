@@ -16,7 +16,6 @@ provider:
   environment:
     ENVIRONMENT: ${param:ENVIRONMENT}
     OAUTH_TOKEN: ${param:OAUTH_TOKEN}
-    GROUP_INFO_URL: ${param:GROUP_INFO_URL}
     U30_SLACK_CHANNEL_ID: ${param:U30_SLACK_CHANNEL_ID}
     U30_WEBHOOK_URL: ${param:U30_WEBHOOK_URL}
 

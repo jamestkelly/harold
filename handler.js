@@ -1,4 +1,5 @@
 'use strict';
+require('dotenv').config()
 Promise = require('bluebird');
 var rp = require('request-promise');
 var fs = require('fs');
@@ -12,7 +13,7 @@ module.exports.run = (event, context) => {
   ];
 
   const U30_SLACK_CHANNEL_ID = process.env.U30_SLACK_CHANNEL_ID;
-  const GROUP_INFO_URL = process.env.GROUP_INFO_URL;
+  const GROUP_INFO_URL = 'https://slack.com/api/groups.info';
   const U30_WEBHOOK_URL = process.env.U30_WEBHOOK_URL;
   const OAUTH_TOKEN = process.env.OAUTH_TOKEN;
 
@@ -34,21 +35,22 @@ module.exports.run = (event, context) => {
       }
     };
 
-    return rp(options).
-    then(r => {
-      var body = JSON.parse(r.body);
-      var randomIndex = Math.floor(Math.random() * (body.group.members.length));
-      console.log("[getRandomUser] userList[" + randomIndex + "]: " + body.group.members[randomIndex]);
-      console.log("memberBlacklist: " + memberBlacklist);
-      while (memberBlacklist.indexOf(body.group.members[randomIndex]) > -1){
-        console.log("User Blacklisted - Reroll");
-        randomIndex = Math.floor(Math.random() * (body.group.members.length));
+    return rp(options)
+      .then(r => {
+        console.log(r.body)
+        var body = JSON.parse(r.body);
+        var randomIndex = Math.floor(Math.random() * (body.group.members.length));
         console.log("[getRandomUser] userList[" + randomIndex + "]: " + body.group.members[randomIndex]);
-      }
-      var questionArr = [body.group.members[randomIndex]];
-      console.log("just configuring the random index " + randomIndex);
-      return questionArr;
-    })
+        console.log("memberBlacklist: " + memberBlacklist);
+        while (memberBlacklist.indexOf(body.group.members[randomIndex]) > -1){
+          console.log("User Blacklisted - Reroll");
+          randomIndex = Math.floor(Math.random() * (body.group.members.length));
+          console.log("[getRandomUser] userList[" + randomIndex + "]: " + body.group.members[randomIndex]);
+        }
+        var questionArr = [body.group.members[randomIndex]];
+        console.log("just configuring the random index " + randomIndex);
+        return questionArr;
+      })
   }
 
   var getRandomQuestion = function(questionArr) {
