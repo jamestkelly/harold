@@ -6,6 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.2.2",
+    "dotenv": "^8.2.0",
     "request": "^2.67.0",
     "request-promise": "^4.1.1"
   }
