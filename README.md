@@ -3,6 +3,9 @@ title: Harold The Question Bot
 layout: Doc
 -->
 
+# Project Board
+https://trello.com/b/iAvdXVNU/harold-bot
+
 # harold-question-bot
 
 A simple slack bot which will ask a random member of the #under30s channel a random question
