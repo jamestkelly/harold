@@ -24,13 +24,6 @@ The list of questions is provided as a separate text file resource to the main a
 
 Since the `groups.info` returns all members of a group, it will also return inactive users and bots. Harold has a simple blacklist mechanism which takes an array of userID's and reselects a user if a blacklisted user is chosen. To blacklist a user, simply add their userID to the memberBlacklist array in `handler.js`.
 
-An additional script is supplied called `ID_checker.js` which retrieves the name and userID of all members in a channel to aid with determining members' userIDs.
-
-The ID checker app can be run locally with:
-
-`node ID_checker.js`
-
-
 ## Deploy
 
 To deploy harold, configure serverless credentials locally and then run:
