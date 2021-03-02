@@ -14,6 +14,7 @@ module.exports.run = async (event, context) => {
 
   const U30_SLACK_CHANNEL_ID = process.env.U30_SLACK_CHANNEL_ID;
   const GROUP_INFO_URL = 'https://slack.com/api/conversations.members';
+  const USER_INFO_URL = 'https://slack.com/api/users.info';
   const MAX_MEMBERS = 200; //Slack recommends no more than 200 at once -> otherwise paginate
   const U30_WEBHOOK_URL = process.env.U30_WEBHOOK_URL;
   const OAUTH_TOKEN = process.env.OAUTH_TOKEN;
@@ -48,12 +49,30 @@ module.exports.run = async (event, context) => {
     }
   };
 
+  // Checks if user is valid in Slack - eg. not deactivated or a bot
+  const isValid = async ({user}) => {
+    const options = {
+      headers: {'authorization': `Bearer ${OAUTH_TOKEN}`},
+      params: { user }
+    }
+    const res = await axios.get(USER_INFO_URL, options);
+    if (!res.data.ok){
+      console.error('Checking Slack User failed', res.data.error);
+      throw new Error(res.data.error);
+    };
+
+    if (res.data.user.deleted || res.data.user.is_bot){
+      return false;
+    }
+    return true;
+  }
+
   const getRandomUser = async () => {
     const members = await fetchUsers({});
 
     while(true){
       const user = members[Math.floor(Math.random() * members.length)];
-      if (memberBlacklist.includes(user)){
+      if (memberBlacklist.includes(user) || !(await isValid({user}))){
         continue;
       }
       return user;
