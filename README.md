@@ -37,10 +37,25 @@ To deploy harold, configure serverless credentials locally and then run:
 
 `sls deploy --aws-profile default --verbose`
 
+## Run Locally
+
+To run it locally:
+
+1. Comment out `- schedule: cron(15 23 ? * SUN-THU *)`
+2. Uncomment the `- httpApi: 'GET /handler'` line.
+3. run `sls offline`
+
 
 ## Secrets
 
-This is a quick and dirty script, there is no secrets management here. As such, secrets are removed during git commits and will need to be manually updated when doing a serverless deploy. Before performing a `sls deploy` please ensure you have updated the `TOKEN` and `WEBHOOK_URL` variables in the top of `handler.js` (and `ID_checker.js`)
+Create an .env file with the following content:
+
+```
+OAUTH_TOKEN=X
+ENVIRONMENT=prod
+U30_SLACK_CHANNEL_ID=X
+U30_WEBHOOK_URL=X
+```
 
 ## Notes
 TOKEN constant is the Oauth token
