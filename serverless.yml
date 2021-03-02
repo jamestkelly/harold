@@ -1,26 +1,25 @@
-org: rdiao
-app: harold
-service: harold-question-bot
+service: harold-question-bots
 
 package:
   exclude:
     - '*.env'
     - README.md
 
+plugins:
+  - serverless-offline
+  - serverless-dotenv-plugin
+
 provider:
   name: aws
-  runtime: nodejs10.x
+  runtime: nodejs12.x
   region: ap-southeast-2
   stage: prod
   profile: default
-  environment:
-    ENVIRONMENT: ${param:ENVIRONMENT}
-    OAUTH_TOKEN: ${param:OAUTH_TOKEN}
-    U30_SLACK_CHANNEL_ID: ${param:U30_SLACK_CHANNEL_ID}
-    U30_WEBHOOK_URL: ${param:U30_WEBHOOK_URL}
+  lambdaHashingVersion: 20201221
 
 functions:
   cron:
     handler: handler.run
     events:
       - schedule: cron(15 23 ? * SUN-THU *)
+      # - httpApi: 'GET /handler'
