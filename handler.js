@@ -59,7 +59,10 @@ module.exports.run = async (event, context) => {
   };
 
   const getRandomQuestion = async () => {
-    const data = await fs.readFile(QUESTIONS_FILE, {encoding: "utf-8"});
+    const data = await fs.readFile(QUESTIONS_FILE, {encoding: "utf-8"}).catch((err) => {
+      console.error('Failed to read questions file', err);
+      throw err;
+    });
     const questions = data.split('\n');
     const question = questions[Math.floor(Math.random() * questions.length)];
     const regex = new RegExp(`\\d+\\) `); //Strips "#) " from the question
@@ -68,7 +71,10 @@ module.exports.run = async (event, context) => {
 
   const sendQuestion = async ({question, member}) => {
     const text = `<@${member}>: ${question}`;
-    await axios.post(U30_WEBHOOK_URL, {text});
+    await axios.post(U30_WEBHOOK_URL, {text}).catch((err) => {
+      console.error('Failed to send question to Slack U30 Channel', err);
+      throw err;
+    });
   }
 
   const members = await fetchUsers({});
