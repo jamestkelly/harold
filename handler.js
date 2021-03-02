@@ -1,115 +1,78 @@
 'use strict';
-require('dotenv').config()
-Promise = require('bluebird');
-var rp = require('request-promise');
-var fs = require('fs');
 
-module.exports.run = (event, context) => {
+const {default: axios} = require('axios');
+const querystring = require('querystring');
+const fs = require('fs').promises;
 
-  var memberBlacklist = [
+module.exports.run = async (event, context) => {
+
+  const memberBlacklist = [
     "U34BXH2P7", // -> plusplus
     "U32D1PZ08", // -> ed
     "U7G33RG22" // -> brunna
   ];
 
   const U30_SLACK_CHANNEL_ID = process.env.U30_SLACK_CHANNEL_ID;
-  const GROUP_INFO_URL = 'https://slack.com/api/groups.info';
+  const GROUP_INFO_URL = 'https://slack.com/api/conversations.members';
+  const MAX_MEMBERS = 200; //Slack recommends no more than 200 at once -> otherwise paginate
   const U30_WEBHOOK_URL = process.env.U30_WEBHOOK_URL;
   const OAUTH_TOKEN = process.env.OAUTH_TOKEN;
+  const QUESTIONS_FILE = "questions.txt"
 
-  var getRandomUser = function() {
 
-    console.log("getRandomUser()");
-
+  const fetchUsers = async ({cursor}) => {
     const options = {
-      method: 'POST',
-      uri: GROUP_INFO_URL,
-      simple: false,
-      resolveWithFullResponse: true,
-      headers: {
-        "content-type": "multipart/form-data"
-      },
-      form: {
-        token: OAUTH_TOKEN,
-        channel: U30_SLACK_CHANNEL_ID
+      headers: {'authorization': `Bearer ${OAUTH_TOKEN}`}
+    }
+    const params = querystring.stringify({
+       channel: U30_SLACK_CHANNEL_ID,
+       limit: MAX_MEMBERS,
+       ... cursor && {cursor}
+    });
+
+    const res = await axios.post(GROUP_INFO_URL, params, options).catch((err) => {
+      console.error('Fetching Slack Channel Members failed', err);
+      throw err;
+    });
+
+    if (!res.data.ok){
+      console.error('Fetching Slack Channel Members failed', res.data.error);
+      throw new Error(res.data.error);
+    };
+
+    // Pagination
+    if (res.data.response_metadata.next_cursor != ""){
+      return [...res.data.members, await fetchUsers({cursor: res.data.response_metadata.next_cursor})]
+    } else {
+      return res.data.members
+    }
+  };
+
+  const getRandomUser = ({members}) => {
+    while(true){
+      const user = members[Math.floor(Math.random() * members.length)];
+      if (memberBlacklist.includes(user)){
+        continue;
       }
-    };
+      return user;
+    }
+  };
 
-    return rp(options)
-      .then(r => {
-        console.log(r.body)
-        var body = JSON.parse(r.body);
-        var randomIndex = Math.floor(Math.random() * (body.group.members.length));
-        console.log("[getRandomUser] userList[" + randomIndex + "]: " + body.group.members[randomIndex]);
-        console.log("memberBlacklist: " + memberBlacklist);
-        while (memberBlacklist.indexOf(body.group.members[randomIndex]) > -1){
-          console.log("User Blacklisted - Reroll");
-          randomIndex = Math.floor(Math.random() * (body.group.members.length));
-          console.log("[getRandomUser] userList[" + randomIndex + "]: " + body.group.members[randomIndex]);
-        }
-        var questionArr = [body.group.members[randomIndex]];
-        console.log("just configuring the random index " + randomIndex);
-        return questionArr;
-      })
+  const getRandomQuestion = async () => {
+    const data = await fs.readFile(QUESTIONS_FILE, {encoding: "utf-8"});
+    const questions = data.split('\n');
+    const question = questions[Math.floor(Math.random() * questions.length)];
+    const regex = new RegExp(`\\d+\\) `); //Strips "#) " from the question
+    return question.replace(regex, "");
+  };
+
+  const sendQuestion = async ({question, member}) => {
+    const text = `<@${member}>: ${question}`;
+    await axios.post(U30_WEBHOOK_URL, {text});
   }
 
-  var getRandomQuestion = function(questionArr) {
-    console.log("getRandomQuestion - START")
-
-    return new Promise(function(resolve, reject) {
-      var filename = "questions.txt"
-      console.log("[getRandomQuestion] opening filename: " + filename);
-      return fs.readFile(filename, function(err, data) {
-        if (err) reject(err);
-
-        data = data += '';
-        var lines = data.split('\n');
-        var line = lines[Math.floor(Math.random() * lines.length)];
-        console.log("[getRandomQuestion] Got Line: " + line);
-        questionArr.push(line);
-        resolve(questionArr);
-      });
-    });
-
-  }
-
-  var createDirectedQuestion = function(questionArr) {
-    console.log("createDirectedQuestion - START")
-
-    var memberId = questionArr[0];
-    var line = questionArr[1];
-    return new Promise(function(resolve, reject) {
-      var regex = /\d+\) /;
-      line = line.replace(regex, "");
-      console.log("[createDirectedQuestion] Line: " + line);
-      console.log("[createDirectedQuestion] memberId: " + memberId);
-      var postString = "<@" + memberId + ">: " + line;
-      console.log("[createDirectedQuestion] directedQuestion: " + postString);
-      resolve(postString);
-    });
-  }
-
-  var postMessage = function(postString) {
-    console.log("[postMessage] postString: " + postString);
-    const options = {
-      method: 'POST',
-      uri: U30_WEBHOOK_URL,
-      body: {
-        text: postString
-      },
-      json: true // Automatically stringifies the body to JSON
-    };
-
-    return rp(options)
-      .then(r => {
-        console.log("[postMessage] Response: " + r);
-      })
-  }
-
-  // Let's go Harold!\
-  getRandomUser()
-    .then(getRandomQuestion)
-    .then(createDirectedQuestion)
-    .then(postMessage)
-
+  const members = await fetchUsers({});
+  const member = getRandomUser({members});
+  const question = await getRandomQuestion();
+  await sendQuestion({member, question});
 };
