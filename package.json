@@ -5,9 +5,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^3.2.2",
-    "dotenv": "^8.2.0",
-    "request": "^2.67.0",
-    "request-promise": "^4.1.1"
+    "axios": "^0.21.1",
+    "serverless": "^2.28.0"
+  },
+  "devDependencies": {
+    "serverless-dotenv-plugin": "^3.8.1",
+    "serverless-offline": "^6.8.0"
   }
 }
