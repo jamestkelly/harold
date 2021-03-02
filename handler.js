@@ -48,7 +48,9 @@ module.exports.run = async (event, context) => {
     }
   };
 
-  const getRandomUser = ({members}) => {
+  const getRandomUser = async () => {
+    const members = await fetchUsers({});
+
     while(true){
       const user = members[Math.floor(Math.random() * members.length)];
       if (memberBlacklist.includes(user)){
@@ -65,8 +67,7 @@ module.exports.run = async (event, context) => {
     });
     const questions = data.split('\n');
     const question = questions[Math.floor(Math.random() * questions.length)];
-    const regex = new RegExp(`\\d+\\) `); //Strips "#) " from the question
-    return question.replace(regex, "");
+    return question;
   };
 
   const sendQuestion = async ({question, member}) => {
@@ -77,8 +78,6 @@ module.exports.run = async (event, context) => {
     });
   }
 
-  const members = await fetchUsers({});
-  const member = getRandomUser({members});
-  const question = await getRandomQuestion();
+  const [member, question] = await Promise.all([getRandomUser(), getRandomQuestion()]);
   await sendQuestion({member, question});
 };
