@@ -21,7 +21,7 @@ module.exports.run = async (event, context) => {
   const QUESTIONS_FILE = "questions.txt"
 
 
-  const fetchUsers = async ({cursor}) => {
+  const fetchUsers = async ({cursor, users = []}) => {
     const options = {
       headers: {'authorization': `Bearer ${OAUTH_TOKEN}`}
     }
@@ -42,10 +42,11 @@ module.exports.run = async (event, context) => {
     };
 
     // Pagination
+    const userList = [...res.data.members, ...users];
     if (res.data.response_metadata.next_cursor != ""){
-      return [...res.data.members, await fetchUsers({cursor: res.data.response_metadata.next_cursor})]
+      return fetchUsers({cursor: res.data.response_metadata.next_cursor, users: userList})
     } else {
-      return res.data.members
+      return userList
     }
   };
 
