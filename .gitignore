@@ -1,8 +1,12 @@
+# Environment variables
 *.env
 
-# package directories
+# Package directories
 node_modules
 jspm_packages
 
 # Serverless directories
 .serverless
+
+# AWS Keys
+keys

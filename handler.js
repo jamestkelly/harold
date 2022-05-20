@@ -9,6 +9,8 @@ module.exports.run = async (event, context) => {
     "U34BXH2P7", // -> plusplus
     "U32D1PZ08", // -> ed
     "U7G33RG22", // -> brunna
+    // "U037L59QX0R", // Derek
+    // "U0370KT3VRC" // Aaron
   ];
 
   const U30_SLACK_CHANNEL_ID = process.env.U30_SLACK_CHANNEL_ID;
