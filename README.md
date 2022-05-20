@@ -196,8 +196,11 @@ Harold will follow a `cron` schedule as is outlined in the `serverless.yml` file
 <!-- ROADMAP -->
 ## Roadmap
 
-* [ X ] Complete handover of Harold to the new team.
+* [x] Complete handover of Harold to the new team.
+* [x] Update the README.
+* [ ] Perform an audit of the questions and remove any *bad* ones.
 * [ ] Develop outline for future features and improvements.
+* [ ] Add additional plans and updates here.
 
 See the [open issues](https://github.com/jamestkelly/harold/issues) for a full list of proposed features (and known issues).
 
@@ -243,12 +246,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 All contributors and project maintainers are available on Slack via their handles as can be seen below:
 
-- `@Aaron Douglas`
-- `@Houston`
-- `@Jim Kelly`
-- `@Pat Randell`
-- `@Rebecca Ye`
-- `@ying`
+* `@Aaron Douglas`
+* `@Houston`
+* `@Jimmy Houang`
+* `@Jim Kelly`
+* `@Pat Randell`
+* `@Rebecca Ye`
+* `@ying`
 
 <p align="right">
     (<a href="#top">
