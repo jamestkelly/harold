@@ -10,3 +10,6 @@ jspm_packages
 
 # AWS Keys
 keys
+
+# MacOS Attributes
+.DS_Store
