@@ -1,0 +1,22 @@
+{
+    "no-inline-html": {
+        "allowed_elements": [
+            "div",
+            "p",
+            "br",
+            "h1",
+            "h2",
+            "h3",
+            "h4",
+            "a",
+            "summary",
+            "details",
+            "ol",
+            "li",
+            "ul",
+            "img",
+            "strong"
+        ]
+    },
+    "line-length": false
+}
