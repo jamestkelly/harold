@@ -1,0 +1,32 @@
+# Script to re-deploy Harold upon changes made in Master
+name: Serverless Deployment
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  deploy:
+    name: deploy
+    runs-on: ubuntu-latest
+    env: # Setup environmental variables for severless deployment
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      
+    steps:
+      # Use GitHub default action to trigger actions in this repository.
+      - uses: actions/checkout@v1
+      - name: npm install dependencies
+        run: npm install
+      - name: Severless
+        uses: serverless/github-action@v1.53.0
+        with:
+          args: deploy
