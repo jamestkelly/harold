@@ -198,6 +198,7 @@ Harold will follow a `cron` schedule as is outlined in the `serverless.yml` file
 
 * [x] Complete handover of Harold to the new team.
 * [x] Update the README.
+* [x] Imlpement automatic deployments (GitHub Actions) when any PR/MRs are approved to `master` branch.
 * [ ] Perform an audit of the questions and remove any *bad* ones.
 * [ ] Develop outline for future features and improvements.
 * [ ] Add additional plans and updates here.
