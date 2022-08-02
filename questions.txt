@@ -90,7 +90,6 @@ Do you like clowns?
 Do you prefer BBC or ITV?
 Who was better, the Beatles or Elvis Presley?
 Whats your least favourite type of foreign food?
-Which Foreign country do you dislike the most?
 Do you like your music loud or easy listening?
 Whats your least favourite animated or cartoon program?
 Why do you sing in the shower?
@@ -401,7 +400,6 @@ Do you prefer metric or imperial measurements?
 Who's your favourite monarch of all time?
 What was the last thing you ate?
 Whats your favourite farmyard animal?
-If you could choose one celebrity to be the father/mother of your child who would it be?
 What would you do if someone proposed to you tomorrow?
 What are your 3 favourite internet sites?
 Which fictional character do you wish was real?
