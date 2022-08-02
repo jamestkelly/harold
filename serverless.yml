@@ -1,3 +1,5 @@
+org: hypasp
+app: harold-question-bots
 service: harold-question-bots
 
 package:
