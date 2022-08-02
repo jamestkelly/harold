@@ -182,6 +182,23 @@ sls deploy --aws-profile default --verbose
     </a>)
 </p>
 
+### Automatic Deployment
+
+Automatic Deployment is done within the serverless website [here](https://www.serverless.com/). An account is required to proceed.
+
+1. First make sure it is deployed manually by running the following. 
+    
+    ```sh
+    sls login
+    sls deploy
+    ```
+
+2. The app should appear in the apps section in the website. Click on the deployment stage called prod. Then click on the settings in the top right.
+
+3. Connect the git repo to the serverless account from this window. Connect the AWS account to the serverless account from this window too. In the branch deploys section add the master branch on stage prod.
+
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
