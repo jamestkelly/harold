@@ -167,11 +167,10 @@ If a tree falls in the forest and there's no one around to hear it does it make 
 Why does it always rain on me?
 Do you love or loathe Harry Potter?
 Do you do your utmost for the environment?
-Do you love or loather Eurovison?
+Do you love or loathe Eurovison?
 Have you ever weilded a sword?
 If you were famous would you want a statue or a building names after you?
 Whats your favourite type of fish?
-Which do you prefer pony tails or pig tails?
 Whats the ultimate cake topping?
 Do you like marzipan?
 Whats better? Center Parks or Butlins?
@@ -211,7 +210,7 @@ Have you ever been to a gym?
 Have you ever been in a helicopter?
 Have you ever cheated at a test?
 Have you ever ridden a tractor?
-Are you a gossip?
+Do you like to gossip?
 Have you ever cried at a film?
 When you're ill do you struggle on regardless or just curl up in bed as much as possible?
 Do you need to write down things to remember them?
@@ -288,7 +287,6 @@ Have you ever made a ball of twine or rubberbands?
 If given the option of having a flake in your ice cream do you always take it?
 Could you ever be a living organ donor?
 Which was your least favourite science? Biology, Physics or Chemistry?
-Could you ever go out with someone just cause they're rich?
 Have you ever contemplated sueing someone?
 Are you pretty devious?
 Have you ever had a surprise party? (that was an actual surprise)
@@ -300,7 +298,6 @@ Have you ever warn clothing with the labels/tags still attached?
 Have you ever slipped on a banana skin?
 Are you scared of the dark?
 Do you have a lawyer?
-Have you ever been wolf whistled in public?
 Whats the worst chatup line you've heard?
 Have you ever been water skiing?
 Have you ever hopelessly failed a test?
@@ -353,10 +350,8 @@ And what title would you give yourself?
 If you invented a monster what would you call it?
 And what features would it have?
 Have you ever had a dream you chased only to be let down when you achived it?
-Is there anything about the opposite sex you just don't understand or comprehend?
 Who was your favourite teacher at school and why?
 Whats your favourite party game?
-Is it acceptable or unacceptable to smack a child as form of disapline?
 Is it criminal to wear socks with sandals?
 If you were captain of a ship, what would you call it?
 If you were to join an emergency service which would it be?
@@ -420,17 +415,13 @@ Do you have any questions or queries about things you're just to scared or embar
 If you were a wrestler what would your stage name be?
 and what would your special move be called?
 Whats the most interesting thing you can see out of your nearest window?
-Do you think Barbie is a negative role model for young girls?
 Have you ever needed an eye test?
-Do you find yourself attractive?
 What social class do you consider yourself or your family background to be in?
 Do you know any magic tricks?
 Whats the largest amount of money you've ever won?
 Whats the largest amount of money you've spent in one spree?
-Whats the largest amount of money you've had to borrow off of a friend or family member
 Have you ever been on a cable car?
 Do you prefer Honey or Jam?
-Do you prefer the French or Germans?
 How fast can you get changed?
 Which is better, Mario or Sonic?
 Whats your favourite biscuit to dunk?
@@ -444,7 +435,7 @@ Have you ever been in a hot tub or sauna?
 Have you ever had chicken pox?
 Do you own a lava lamp?
 Are you glad these are almost over?
-On a scale of 1-10 how random would you say these are?
+On a scale of 1-10 how random would you say these questions are?
 What is your one major weekness?
 Whats been the best descision you've made in your life so far?
 Whats been the worst descision you've made in your life so far?
@@ -456,7 +447,6 @@ On a scale of 1-10 how devious would you say you are?
 On a scale of 1-10 how awesome would you say you are?
 On a scale of 1-10 how devilsh would you say you are?
 On a scale of 1-10 how nice/caring would you say you are?
-On a scale of 1-10 how bitchy would you say you are?
 On a scale of 1-10 how polite would you say you are?
 On a scale of 1-10 how attractive would you say you are?
 If you could be any famous person who would you be and why?
@@ -485,13 +475,13 @@ Whats your favourite alcoholic drink beginning with the letter V?
 Whats your favourite cartoon character beginning with the letter W?
 Whats your favourite word beginning with the letter X?
 Whats your favourite city beginning with the letter Y?
-Whats your favourite country beginning with the letter Z?
+Whats your favourite word beginning with the letter Z?
 Do you get seasick?
 If you discovered a new species of dinosaur what would you call it?
 Do you own a paddling pool?
 What do you consider is the most important piece of furniture in a house?
 What do you consider is the most important appliance in a house?
-If you could have any celebritys hair whos would it be?
+If you could have any celebrity's hair whos would it be?
 Which Celebrity do you find the most annoying?
 What potential talents do you think you might have if you worked at them?
 Who was better, Flipper, Lassie or Skippy?
@@ -500,7 +490,6 @@ If someone elses child was being an annoying little runt would you go tell them 
 Do you believe in kharma?
 Do you believe in revenge?
 Do you believe in fairies?
-Do you believe in a god?
 Do you believe there used to be dragons?
 Who would you want to be with on a desert island?
 What's the worst show on television?
@@ -538,7 +527,6 @@ Do you like other people buying you clothes?
 Have you ever brought a present for someone that they hated/disliked?
 What nicknames do you have/have had?
 Did you have any pretend or imaginary friends?
-Have you ever seen a therapist/shrink?
 Have you ever carved a pumpkin?
 Would you say you are a good or bad influence to others?
 Do you prefer giving or recieving gifts/help etc
@@ -559,7 +547,6 @@ If you were stinking rich, would you only go to places other rich people went?
 Would you rather fight a giant chicken or a giant crab?
 Rebound relationships, good or bad?
 Have you ever owned a slinky?
-Teenage parents, good bad or indifferent?
 Whats the most expensive thing you've ever broken?
 Pirate downloads, good or bad?
 Have you ever been electrocuted?
@@ -578,9 +565,6 @@ Would you rather be the worlds greatest football player or lover?
 Do you get hayfever?
 Do you have a list of things to do before your 'x' years old?
 Do you like your age?
-Whats your favourite physical thing you like about yourself?
-Whats your least favourite physical thing you like about yourself?
-Are you proud, comfortable or ashamed of your body?
 Whats your favourite personality trait you like about yourself?
 Whats your least favourite personality trait you like about yourself?
 Do you know html?
@@ -591,9 +575,7 @@ Whats the fastest you've ever driven? (as driver or passenger)
 What compulsions do you have?
 What makes you angry?
 If you could see any band, which would you like to see?
-Who would you say are more attractive, English or Europeans?
 What would you say is your favourite album of all time?
-Do you dislike hairy people?
 Are you much of an adventurer?
 Do you like your own name?
 Would you ever sign a Prenuptial agreement?
@@ -602,7 +584,7 @@ Have you ever stolen anything?
 Could you ever have an affair with a married person?
 Could you ever split up a couple for one reason or another?
 What is your family christmases like?
-Do you prefer sporty or academic members of the opposite sex?
+Are you attracted to sporty or academic people?
 How much would it cost to buy your love?
 Who was your least favourite teacher at school and why?
 If you met a Genie who offered you three wishes, what would you wish for? (more wishes does not count)
@@ -781,9 +763,6 @@ How would you get rid of a dead body if you only had an hour to dispose of it?
 How would you plan your ideal funeral?
 If I wasn't married, would you marry me?
 How many imaginary friends do you have?
-Who do you like the least in this channel?
-How much money do you make?
-How much longer do you think your relationship/marriage will last?
 Are the voices in my head bothering you?
 What do you talk about when you talk to yourself?
 How do you feel about putting pineapple on pizza?
@@ -836,7 +815,6 @@ You've got a broad set of shoulders on you, you ever do any modeling or wrestlin
 Can you provide proof that you are not 100 snakes inside of a hollowed out human?
 What's something that's brown and sticky?
 You take a really smelly poop and come out of the stall and meet one of your co-workers at the sink. How do you act?
-How much does a girlfriend cost?
 So, why do you work here?
 If you and I were to go to jail, what would it be for?
 What was your first impression of me?
@@ -860,6 +838,20 @@ If there’s a hell, do you think you’re going there?
 If aliens came to earth, would you want us to welcome them or kill them?
 Would you rather bleed out or be set on fire?
 What part of your body would you replace with an improved mechanical version?
-Are you (at this moment) romantically interested in someone who doesn't think of you in that way?
 Have you ever purposely hurt someone just enough to make them scream when rendering first aid?
 Have you ever looked in the mirror and thought that you’re the most beautiful girl in the world?
+What's the scariest horror movie you've watched?
+What is something that just doesn't make sense to you?
+What's a topic you can talk about for hours? And care to give us an intro?
+Which reality show do you think you have the best chance at winning?
+How would you describe me to a stranger?
+What has been the most embarrassing thing you’ve ever worn?
+Should a man about to be executed in the electric chair be saved if he had a heart attack?
+Why is sandwich meat round when bread is square?
+Which would be the nicest if animals could only talk?
+Which superpower would you not want?
+Which side of the armrest is really yours at a movie theater?
+How would you know if someone has manipulated your memory?
+Is ketchup considered a smoothie since tomatoes are considered as fruits?
+Is there a synonym for synonym?
+Would the other doctors treat the doctor or the patient if a doctor suffered a heart attack while performing surgery?
